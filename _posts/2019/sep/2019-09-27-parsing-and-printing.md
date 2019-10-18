@@ -193,6 +193,7 @@ class Date {
       .with("mm", this.minutes)
       .with("ss", this.seconds);
   }
+}
 {% endhighlight %}
 
 This is how parsing would work
